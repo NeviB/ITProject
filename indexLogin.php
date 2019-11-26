@@ -5,11 +5,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-<head>
-  <title>Crunchy Rice Studios</title>
-  <link rel="icon" href="onigiri4.png">
-  
-</head>
 	<head>
 		<title>Dimension by HTML5 UP</title>
 		<meta charset="utf-8" />
@@ -29,94 +24,29 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>Crunchy Rice Studios</h1>
-								<p>A nice rag tag group of guys </p>
+								<h1>Login Successful</h1>
+								
 							</div>
 						</div>
-						<nav>
-							<ul>
-								<li><a href="#intro">Intro</a></li>
-								<li><a href="#about">About</a></li>
-                <li><a href="#Login">Login</a></li>
-								<li><a href="#Registration">Registration</a></li>
-								<!--<li><a href="#elements">Elements</a></li>-->
-							</ul>
-						</nav>
+						
 					</header>
 
 				<!-- Main -->
 					<div id="main">
 
-						<!-- Intro -->
-							<article id="intro">
-								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Words <a href="#work">awesome work</a>.</p>
-								<p>more words</p>
-							</article>
+						
 
-						<!-- Login -->
-							<article id="Login">
-								<h2 class="major">Login</h2>
-								<form method="post" action="./Login.php">
-									<div class="fields">
-										<div class="field half">
-											<label for="Lusername">Username</label>
-											<input type="text" name="Lusername" id="Lusername" />
-										</div>
-										<div class="field half">
-											<label for="Lpassword">Password</label>
-											<input type="password" name="Lpassword" id="Lpassword" />
-										</div>
-										
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Login" class="primary" /></li>
-										
-									</ul>
-								</form>
-								<ul class="icons">
-									<li><a href="https://www.instagram.com/nevinbunag/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="https://github.com/NeviB/ITProject" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</article>
+					
 
-						<!-- About -->
-							<article id="about">
+						<!-- success register page -->
+							<article id="">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/busters.jpg" alt="" /></span>
-								<p>Welcome to our Prototype website for Crunchy rice studios. THe picture on top is the staff behind Crunchy Rice Studios. Yes we also kill ghosts.</p>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p> Successfuly registered.</p>
 							</article>
 
-						<!-- Registration -->
-							<article id="Registration">
-								<h2 class="major">Registration</h2>
-								<form method="post" action="./Registration.php">
-									<div class="fields">
-										<div class="field half">
-											<label for="RUsername">Username</label>
-											<input type="text" name="Rusername" id="RUsername" />
-										</div>
-										<div class="field half">
-											<label for="RPassword">Password</label>
-											<input type="password" name="Rpassword" id="RPassword" />
-										</div>
-                                                                       
-                    <div class="field half">
-											<label for="Confirm =Password">Confirm Password</label>
-											<input type="password" name="ConfirmPassword" id="ConfirmPassword" />
-										</div>
-										
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Register" class="primary" /></li>
-									</ul>
-								</form>
-								<ul class="icons">
-								<li><a href="https://www.instagram.com/nevinbunag/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="https://github.com/NeviB/ITProject" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</article>
+						
+								
 
 						<!-- Elements -->
 							<article id="elements">
